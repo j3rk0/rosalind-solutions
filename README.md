@@ -6,3 +6,9 @@ rosalind problems:
 
 * DNA base counts (*rosalind_dna*)
 * DNA to RNA translation (*rosalind_rna*)
+* Rabbits and recurrence relations (*rosalind_fib*)
+* Mortal fibonacci rabbits (*rosalind_fibd*)
+* gc content (*rosalind_gc*)
+* rna to protein translation (*rosalind_prot*)
+* dna strand complementing (*rosalind_revc*)
+* dna motif finding (*rosalind_subs*)
